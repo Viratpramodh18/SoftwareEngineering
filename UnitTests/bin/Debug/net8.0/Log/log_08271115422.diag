@@ -1,0 +1,16 @@
+2025-08-27T11:34:15.4321525+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-08-27T11:34:15.4579375+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-08-27T11:34:15.4597718+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-08-27T11:34:15.4597778+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 11:34:15.391
+2025-08-27T11:34:15.4621843+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 1116
+2025-08-27T11:34:15.4623934+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.19
+2025-08-27T11:34:15.4624091+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.19\System.Private.CoreLib.dll
+2025-08-27T11:34:15.4624239+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-08-27T11:34:15.4624295+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Viratpramodh\source\repos\composite file system\UnitTests\bin\Debug\net8.0\UnitTests.dll
+2025-08-27T11:34:15.4627519+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Viratpramodh\source\repos\composite file system\UnitTests\bin\Debug\net8.0\Log --results-directory C:\Users\Viratpramodh\source\repos\composite file system\TestResults --client-port 52846'
+2025-08-27T11:34:15.4645895+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-08-27T11:34:15.4982683+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-08-27T11:34:15.5052833+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\Viratpramodh\source\repos\composite file system\UnitTests\bin\Debug\net8.0\UnitTests.testconfig.json' not found.
+2025-08-27T11:34:15.5084285+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-08-27T11:34:15.7479522+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-08-27T11:34:15.8898477+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Viratpramodh\source\repos\composite file system\UnitTests\bin\Debug\net8.0\UnitTests.dll (Workers: 16, Scope: MethodLevel)

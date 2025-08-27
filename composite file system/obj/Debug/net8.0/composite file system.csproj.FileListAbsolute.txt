@@ -1,0 +1,11 @@
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\bin\Debug\net8.0\composite file system.deps.json
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\bin\Debug\net8.0\composite file system.dll
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\bin\Debug\net8.0\composite file system.pdb
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.AssemblyInfoInputs.cache
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.AssemblyInfo.cs
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.csproj.CoreCompileInputs.cache
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.dll
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\refint\composite file system.dll
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\composite file system.pdb
+C:\Users\Viratpramodh\source\repos\composite file system\composite file system\obj\Debug\net8.0\ref\composite file system.dll

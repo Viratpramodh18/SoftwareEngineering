@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "dczYXn8CRK8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viratpramodh\\source\\repos\\composite file system\\FileSystemTests\\FileSystemTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Viratpramodh\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "FileSystemTests depends on MSTest.TestAdapter (>= 3.1.0) but MSTest.TestAdapter 3.1.0 was not found. MSTest.TestAdapter 3.1.1 was resolved instead.",
+      "projectPath": "C:\\Users\\Viratpramodh\\source\\repos\\composite file system\\FileSystemTests\\FileSystemTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Viratpramodh\\source\\repos\\composite file system\\FileSystemTests\\FileSystemTests.csproj",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "FileSystemTests depends on MSTest.TestFramework (>= 3.1.0) but MSTest.TestFramework 3.1.0 was not found. MSTest.TestFramework 3.1.1 was resolved instead.",
+      "projectPath": "C:\\Users\\Viratpramodh\\source\\repos\\composite file system\\FileSystemTests\\FileSystemTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Viratpramodh\\source\\repos\\composite file system\\FileSystemTests\\FileSystemTests.csproj",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
